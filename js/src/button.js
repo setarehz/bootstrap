@@ -34,7 +34,7 @@ const Button = (($) => {
     ACTIVE             : '.active',
     BUTTON             : '.btn'
   }
-
+//
   const Event = {
     CLICK_DATA_API      : `click${EVENT_KEY}${DATA_API_KEY}`,
     FOCUS_BLUR_DATA_API : `focus${EVENT_KEY}${DATA_API_KEY} `
